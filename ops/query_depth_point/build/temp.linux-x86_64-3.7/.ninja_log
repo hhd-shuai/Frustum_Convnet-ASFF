@@ -1,0 +1,3 @@
+# ninja log v5
+0	6244	1614849971	/home/b516/hhd_shuai/vscode_file/frustum-convnet/ops/query_depth_point/build/temp.linux-x86_64-3.7/query_depth_point_cuda_kernel.o	67a92ae197cfbb04
+0	10807	1614849976	/home/b516/hhd_shuai/vscode_file/frustum-convnet/ops/query_depth_point/build/temp.linux-x86_64-3.7/query_depth_point_cuda.o	186e074258315661
